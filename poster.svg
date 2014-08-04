@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="1081.3241"
-     inkscape:cy="2370.1912"
+     inkscape:cy="1455.9055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,6 +78,10 @@
        orientation="0,1"
        position="1610.1831,260.61935"
        id="guide3805" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="702.85714,1485.7143"
+       id="guide3813" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -1204,7 +1208,7 @@
          y="-1407.2496"
          x="1052.6434"
          id="tspan6311"
-         sodipodi:role="line">Q: Can we predict &quot;normal&quot; traffic flow accross England?</tspan></text>
+         sodipodi:role="line">Q: Can we predict &quot;usual&quot; traffic flow accross England?</tspan></text>
     <rect
        ry="17.716534"
        rx="17.716536"
